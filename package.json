@@ -1,0 +1,17 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "COMP2156 lab exercise",
+  "main": "index.js",
+  "dependencies": {
+    "corepack": "^0.23.0",
+    "npm": "^10.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Kamal Saini",
+  "license": "ISC"
+}
